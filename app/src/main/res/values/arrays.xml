@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+        name="pnum_list">
+        <item>Participant 1</item>
+        <item>Participant 2</item>
+        <item>Participant 3</item>
+        <item>Participant 4</item>
+        <item>Participant 5</item>
+        <item>Participant 6</item>
+        <item>Participant 7</item>
+        <item>Participant 8</item>
+        <item>Participant 9</item>
+        <item>Participant 10</item>
+        <item>Participant 11</item>
+        <item>Participant 12</item>
+        <item>Participant 13</item>
+        <item>Participant 14</item>
+        <item>Participant 15</item>
+        <item>Participant 16</item>
+        <item>Participant 17</item>
+        <item>Participant 18</item>
+        <item>Participant 19</item>
+        <item>Participant 20</item>
+        <item>Participant 21</item>
+        <item>Participant 22</item>
+        <item>Participant 23</item>
+        <item>Participant 24</item>
+        <item>Participant 25</item>
+        <item>Participant 26</item>
+        <item>Participant 27</item>
+        <item>Participant 28</item>
+        <item>Participant 29</item>
+        <item>Participant 30</item>
+        <item>Participant 31</item>
+        <item>Participant 32</item>
+        <item>Participant 33</item>
+    </string-array>
+    <string-array
+        name="Mode_list">
+    <item>Casual</item>
+    <item>Experiment</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Spritzish</string>
+    <string name="FirstWords"> X </string>
+    <string name="Playbut">Next</string>
+    <string name="Prevbut">Back</string>
+    <string name="action_settings">Settings</string>
+    <string name="options_exit_text">Exit</string>
+    <string name="options_Demo">Practice</string>
+    <string name="pnum">Select a Participant Number</string>
+    <string name="mode">Select a Mode</string>
+    <string name="options_passage1">Passage 1</string>
+    <string name="options_passage2">Passage 2</string>
+    <string name="options_passage3">Passage 3</string>
+    <string name="options_passage4">Passage 4</string>
+    <string name="options_passage5">Passage 5</string>
+    <string name="options_passage6">Passage 6</string>
+    <string name="options_passage7">Passage 7</string>
+    <string name="options_passage8">Passage 8</string>
+    <string name="options_passage9">Passage 9</string>
+    <string name="options_passage10">Passage 10</string>
+    <string name="options_hide_buttons">Hide/Show Buttons</string>
+    <string name="casual_mode">Casual</string>
+    <string name="experiment_mode">Experiment</string>
+    <string name="contin">Are you Ready to continue?</string>
+    <string name="notyet">Not yet</string>
+    <string name="nexpas">Next passage</string>
+</resources>

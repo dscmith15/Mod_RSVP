@@ -1,0 +1,128 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.dustin.ModRSVP.MainActivity">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/demo_1"
+            android:title="@string/options_Demo"
+            app:showAsAction="never"
+            android:checked = "true"
+
+            android:orderInCategory="100"
+
+            />
+
+         <item android:id="@+id/passage_1"
+            android:title="@string/options_passage1"
+            android:orderInCategory="102"
+
+            android:checked = "false"
+            app:showAsAction="never"
+            android:enabled="true"
+
+            />
+
+        <item android:id="@+id/passage_2"
+            android:title="@string/options_passage2"
+            android:orderInCategory="103"
+
+            android:checked = "false"
+            app:showAsAction="never"
+            android:enabled="true"
+
+            />
+        <item android:id="@+id/passage_3"
+            android:title="@string/options_passage3"
+            android:orderInCategory="104"
+
+            android:checked = "false"
+            app:showAsAction="never"
+            android:enabled="true"
+
+            />
+
+        <item android:id="@+id/passage_4"
+            android:title="@string/options_passage4"
+            android:orderInCategory="105"
+
+            android:checked = "false"
+            app:showAsAction="never"
+            android:enabled="true"
+
+            />
+
+        <item android:id="@+id/passage_5"
+            android:title="@string/options_passage5"
+            android:orderInCategory="106"
+
+            android:checked = "false"
+            app:showAsAction="never"
+            android:enabled="true"
+
+            />
+
+        <item android:id="@+id/passage_6"
+            android:title="@string/options_passage6"
+            android:orderInCategory="107"
+
+            android:checked = "false"
+            app:showAsAction="never"
+            android:enabled="true"
+
+            />
+        <item android:id="@+id/passage_7"
+            android:title="@string/options_passage7"
+            android:orderInCategory="108"
+
+            android:checked = "false"
+            app:showAsAction="never"
+            android:enabled="true"
+
+            />
+
+        <item android:id="@+id/passage_8"
+            android:title="@string/options_passage8"
+            android:orderInCategory="109"
+
+            android:checked = "false"
+            app:showAsAction="never"
+            android:enabled="true"
+
+            />
+
+        <item android:id="@+id/passage_9"
+            android:title="@string/options_passage9"
+            android:orderInCategory="110"
+
+            android:checked = "false"
+            app:showAsAction="never"
+            android:enabled="true"
+
+            />
+
+        <item android:id="@+id/passage_10"
+            android:title="@string/options_passage10"
+            android:orderInCategory="111"
+
+            android:checked = "false"
+            app:showAsAction="never"
+            android:enabled="true"
+
+            />
+        <item android:id="@+id/exit_the_app"
+            android:title="@string/options_exit_text"
+            app:showAsAction="always"
+
+            />
+        <item android:id="@+id/hide_button"
+            android:title="@string/options_hide_buttons"
+            app:showAsAction="always"
+
+            />
+
+    </group>
+
+
+
+</menu>
